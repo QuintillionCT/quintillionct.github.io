@@ -1,2 +1,3 @@
 # quintillionct.github.io
-Public Quintillion repositiory
+
+[Quintillion Cognitive Technologies](https://quintillionct.github.io/)
